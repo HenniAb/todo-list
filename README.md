@@ -1,6 +1,6 @@
 ## Todo List
 
-A simple  ToDo list made with HTML, CSS and JS. 
+A simple  ToDo list made with HTML, CSS3 and JS. 
 It saves tasks to local storage so they can be reloaded after the browser is closed.
 Users can add, complete and delete tasks.
 
